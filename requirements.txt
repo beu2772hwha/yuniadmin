@@ -1,0 +1,6 @@
+PyQt5==5.15.10
+SQLAlchemy==2.0.27
+cryptography==42.0.5
+passlib==1.7.4
+python-dotenv==1.0.1
+pymysql==1.1.0
